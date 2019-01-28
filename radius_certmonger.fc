@@ -1,0 +1,1 @@
+/etc/pki/radiusd(/.*)?		gen_context(system_u:object_r:radiusd_cert_t, s0)
